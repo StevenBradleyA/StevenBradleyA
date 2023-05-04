@@ -17,9 +17,11 @@
 
 - 📫 How to reach me **andersonstevenbradley@gmail.com**
 
+- ⚡ Fun Fact: I build custom **Mechanical Keyboards**
+
 </div>
 
-<h2></h2>
+<h2 align="center">     </h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=StevenBradleyA&hide=issues&theme=merko&hide_border=true&show_icons=true" />
