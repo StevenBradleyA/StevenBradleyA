@@ -2,15 +2,50 @@
   <img src="./media/matrix.gif" alt="binarygif" height="200" width="100%" style="object-fit: cover"/>
 </p>
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm <span style="color:#00dd00">Steven Anderson</span>.</h1>
+<h1 align="center" style="color:#00dd00">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Steven Anderson.</h1>
 
 <div style="display:flex">
   <img src="./media/dayInTheLife.gif" align="right" alt="binarygif" height="225" width="400" style="object-fit: cover"/>
 
+
+![](https://komarev.com/ghpvc/?username=StevenBradleyA&color=00dd00)
+
 - 🔭 I'm currently working on [keeby](https://github.com/StevenBradleyA/keeby)
+
 - 🌱 I’m currently learning **React Native**
+
 - 💬 Ask me about **React, Flask, Render**
+
 - 📫 How to reach me **andersonstevenbradley@gmail.com**
 
 
 </div>
+
+
+
+<h2 align="center">Languages and Tools:</h2>
+
+
+<h2 align="center">GitHub Stats:</h2>
+
+
+
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=StevenBradleyA&hide=issues&theme=merko&hide_border=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenBradleyA&layout=compact&theme=merko&hide_border=true" />
+</a>
+<h2 align="center">Repos:</h2>
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StevenBradleyA&repo=keeby&theme=merko&hide_border=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StevenBradleyA&repo=keeby&theme=merko&hide_border=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StevenBradleyA&repo=keeby&theme=merko&hide_border=true&show_icons=true" />
+</a>
