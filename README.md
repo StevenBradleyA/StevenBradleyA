@@ -8,12 +8,14 @@
 
 <div style="display:flex">
   <ul>
-    <li>🔭 I’m currently working on [keeby](https://github.com/StevenBradleyA/keeby)</li>
-    <li>📫 How to reach me: **andersonstevenbradley@gmail.com**</li>
+    <li>🧙‍♂️</li>
+    <li>🔥🔥🔥</li>
+    <li>⚡⚡⚡</li>
+
   </ul>
 
 <p align="center">
-  <img src="./media/dayInTheLife.gif" alt="binarygif" height="250" width="100%" style="object-fit: cover"/>
+  <img src="./media/dayInTheLife.gif" alt="binarygif" height="250" width="400" style="object-fit: cover"/>
 </p>
 
 </div>
