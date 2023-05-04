@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="./media/matrix.gif" alt="binarygif" height="200" width="100%" style="object-fit: cover"/>
+  <img src="./nonLfs/GithubHeader2.gif" alt="binarygif" height="200" width="100%" style="object-fit: cover"/>
 </p>
 
-<h1 align="center" style="color:#00dd00">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Steven Anderson.</h1>
+<h1 align="center" style="color:#00dd00"> [ access granted ] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 <div style="display:flex">
   <img src="./media/dayInTheLife.gif" align="right" alt="binarygif" height="225" width="400" style="object-fit: cover"/>
