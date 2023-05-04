@@ -16,10 +16,11 @@
 - 💬 Ask me about **React, Flask, Render**
 
 - 📫 How to reach me **andersonstevenbradley@gmail.com**
+<p></p>
 </div>
 
 <h1></h1>
-<!-- <h2 align="center">Languages and Tools</h2> -->
+<h2 align="center">Languages and Tools</h2>
 
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=react,py,flask,aws,vscode,webpack,postgres,github,redux,sqlite,js,express,sequelize,nodejs,babel,git,html,postman,docker,nginx&perline=10">
@@ -29,7 +30,7 @@
 
 
 <h1></h1>
-<!-- <h2 align="center">GitHub Stats</h2> -->
+<h2 align="center">GitHub Stats</h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=StevenBradleyA&hide=issues&theme=merko&hide_border=true&show_icons=true" />
@@ -37,7 +38,7 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenBradleyA&layout=compact&theme=merko&hide_border=true" />
 </a>
-<h1></h1>
+<!-- <h1></h1> -->
 <h2 align="center">Browse my lastest creations!</h2>
 
 <a href="https://github.com/anuraghazra/convoychat">
