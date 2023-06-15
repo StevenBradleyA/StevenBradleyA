@@ -11,9 +11,9 @@
 
 - 🔭 I'm currently working on [keeby](https://github.com/StevenBradleyA/keeby)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Prisma, Next.js**
 
-- 💬 Ask me about **React, Flask, Render**
+- 💬 Ask me about **Cars, Keyboards or Coding**
 
 - 📫 How to reach me **andersonstevenbradley@gmail.com**
 
@@ -45,5 +45,5 @@
 <h2 align="center">Languages and Tools</h2>
 
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=react,py,flask,aws,vscode,webpack,postgres,github,redux,sqlite,js,express,sequelize,nodejs,babel,git,html,postman,docker,nginx&perline=10">
+  <img src="https://skillicons.dev/icons?i=react,py,flask,aws,vscode,webpack,postgres,github,redux,sqlite,ts,js,prisma,express,sequelize,nodejs,babel,git,html,postman,docker,nginx&perline=11">
 </p>
